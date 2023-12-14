@@ -1,14 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0E77B0&height=250&text=Hello%20World!&fontSize=60&fontColor=414141)
 
-
-<h1> 안녕하세요, Front-end 개발자 이유진 입니다! </h1>
+![header](https://capsule-render.vercel.app/api?type=venom&color=0E77B0&height=150&text=Front-end%20Developer%20🐯&fontSize=60&fontColor=414141)
 
 ### Skills
 <b>Front-end</b>
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"> &nbsp;
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white">
+    <br />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">&nbsp;
@@ -21,6 +20,7 @@
     <img src="https://img.shields.io/badge/nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> &nbsp;
     <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white"> &nbsp;
     <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> &nbsp;
+    <br />
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"> &nbsp;
     <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/amazon rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">&nbsp;
