@@ -35,11 +35,7 @@
 </a>&nbsp;
 <a href="https://velog.io/@2ujin">
 <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
-</a>&nbsp;
-<a href="https://2ujin.oopy.io/">
-<img src="https://img.shields.io/badge/Portfolio-0E77B0?style=for-the-badge&logo=aboutdotme&logoColor=white">
 </a>
-
 
 <br><br>
 
