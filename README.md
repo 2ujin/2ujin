@@ -37,11 +37,7 @@
 <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
 </a>
 
-<br><br>
-
-![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=2ujin&show_icons=true&bg_color=00000000)
-
-
+<br>
 <br />
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/2ujin&count_bg=%230E77B0&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
